@@ -1,8 +1,9 @@
 {
     "static": {
+        "cleanUrls": false,
         "headers": [
             {
-                "source": "disallowed-x-robots",
+                "source": "disallowed-x-robots.html",
                 "headers": [
                     {
                         "key": "X-Robots-Tag",
