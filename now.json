@@ -1,0 +1,15 @@
+{
+    "static": {
+        "headers": [
+            {
+                "source": "disallowed-x-robots",
+                "headers": [
+                    {
+                        "key": "X-Robots-Tag",
+                        "value": "noindex"
+                    }
+                ]
+            }
+        ]
+    }
+}
