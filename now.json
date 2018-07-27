@@ -1,6 +1,5 @@
 {
     "static": {
-        "cleanUrls": false,
         "headers": [
             {
                 "source": "disallowed-x-robots.html",
